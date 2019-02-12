@@ -1,2 +1,1 @@
-let script = 'popup'
-console.log(script)
+console.log('popup')
