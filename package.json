@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lhk/popup_inaccessible#readme",
   "devDependencies": {
-    "parcel-plugin-web-extension": "^1.5.1"
+    "parcel-plugin-web-extension": "^1.5.1",
+    "typescript": "^3.3.3"
   }
 }
