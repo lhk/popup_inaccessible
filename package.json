@@ -1,0 +1,22 @@
+{
+  "name": "ts_branch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhk/popup_inaccessible.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhk/popup_inaccessible/issues"
+  },
+  "homepage": "https://github.com/lhk/popup_inaccessible#readme",
+  "devDependencies": {
+    "parcel-plugin-web-extension": "^1.5.1"
+  }
+}

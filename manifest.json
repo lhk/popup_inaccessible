@@ -1,15 +1,14 @@
 {
     "manifest_version": 2,
-    "name": "broccoli",
+    "name": "parcel demo",
     "version": "0.0.1",
     "description": "",
     "author": "",
     "browser_action": {
         "default_popup": "popup/index.html"
     },
-    "permissions": [
-        "storage",
-        "activeTab",
-        "<all_urls>"
-    ]
+    "options_ui": {
+        "page": "options_ui/index.html"
+    },
+    "permissions": []
 }
